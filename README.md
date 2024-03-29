@@ -42,18 +42,18 @@ UTKFace dataset is a large-scale face dataset with long age span (range from 0 t
 
 <h2>The contents of this Project :</h2>
 <ul>
-  <li>gender-and-age-prediction.ipynb</li>
-    <ul> The Jupyter notebook presents a comprehensive deep learning pipeline designed for gender and age inference from images employing TensorFlow/Keras. The process encompasses image data preprocessing, segmentation into training, validation, and testing subsets, and the establishment of data generators to facilitate batch processing. Two distinct models are constructed for gender and age prediction, leveraging pre-trained MobileNetV2 architectures as feature extractors. Model training incorporates callback mechanisms for model checkpointing and early stopping. Upon evaluation with test data, the models demonstrate promising performance, achieving high accuracy of 93.41% in gender prediction and minimal mean absolute error of 4.9132 in age estimation.
-    </ul>
   <li>GenderAgeInference.ipynb</li>
     <ul> The code implements gender and age prediction from facial images using TensorFlow and Keras. It defines models for gender and age prediction using the MobileNetV2 architecture, loads pre-trained weights, and provides utility functions for image processing, face detection, and prediction visualization. Sample images are processed, faces are detected, and gender and age predictions are made, with bounding boxes and labels drawn on the images. Overall, it showcases deep learning techniques for facial analysis in a concise and efficient manner.
     </ul>
+  <li>A few pictures for training and testing of model.</li>
   <li>topage_weights.keras</li>
     <ul> This keras file contains the learned weights and biases essential for constructing the age model architecture. By storing these parameters separately, the model architecture can be reconstructed with pre-trained weights, enabling efficient inference on new data without the necessity of retraining.
     </ul>
   <li>topgender_weights.keras</li>
     <ul> This file contains the learned weights and biases essential for constructing the gender model architecture.
     </ul>
-  <li>a few pictures to try the project on</li>
+  <li>gender-and-age-prediction.ipynb</li>
+    <ul> The Jupyter notebook presents a comprehensive deep learning pipeline designed for gender and age inference from images employing TensorFlow/Keras. The process encompasses image data preprocessing, segmentation into training, validation, and testing subsets, and the establishment of data generators to facilitate batch processing. Two distinct models are constructed for gender and age prediction, leveraging pre-trained MobileNetV2 architectures as feature extractors. Model training incorporates callback mechanisms for model checkpointing and early stopping. Upon evaluation with test data, the models demonstrate promising performance, achieving high accuracy of 93.41% in gender prediction and minimal mean absolute error of 4.9132 in age estimation.
+    </ul>
  </ul>
  
