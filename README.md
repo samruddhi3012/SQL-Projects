@@ -12,6 +12,12 @@ Following are the specific for each model:
   loss of 0.1737 for the gender model
   </ul>
  -accuracy of 93.41% and a loss of 0.1737 for the gender model 
+
+ ## Specifics for Gender Model:
+
+- Accuracy: 93.41%
+- Loss: 0.1737
+- 
 Time taken to train:
 
 
