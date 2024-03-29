@@ -7,7 +7,10 @@ Mention that it has been trained on kaggle, mention the gpu
 
 Calculate the time taken to train from adding the time per epochs
 Following are the specific for each model:
-- Gender Model 
+- Gender Model
+  <ul> - accuracy of 93.41% and a 
+       -loss of 0.1737 for the gender model
+  </ul>
  -accuracy of 93.41% and a loss of 0.1737 for the gender model 
 Time taken to train:
 
