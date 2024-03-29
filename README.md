@@ -34,3 +34,14 @@ UTKFace dataset is a large-scale face dataset with long age span (range from 0 t
   <li>topgender_weights.keras</li>
   <li>a few pictures to try the project on</li>
  </ul>
+
+ <h2>The contents of this Project :</h2>
+<ul>
+  <li>GenderAgeInference.ipynb</li>
+    <ul> Samruddhi
+    </ul>
+  <li>gender-and-age-prediction.ipynb</li>
+  <li>topage_weights.keras</li>
+  <li>topgender_weights.keras</li>
+  <li>a few pictures to try the project on</li>
+ </ul>
