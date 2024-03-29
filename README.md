@@ -57,5 +57,5 @@ UTKFace dataset is a large-scale face dataset with long age span (range from 0 t
     </ul>
  </ul>
  
-![alt text](http://url/to/img.png)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.four-paws.org%2Four-stories%2Fpublications-guides%2F10-tips-to-recognise-a-responsible-puppy-seller&psig=AOvVaw34fJEEqbQEEdz1PI5-DOK-&ust=1711806660788000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJChtO3OmYUDFQAAAAAdAAAAABAE)
 
